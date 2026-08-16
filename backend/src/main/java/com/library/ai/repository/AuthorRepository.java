@@ -1,0 +1,6 @@
+package com.library.ai.repository;
+
+import com.library.ai.model.Author;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface AuthorRepository extends JpaRepository<Author, Long> {}
