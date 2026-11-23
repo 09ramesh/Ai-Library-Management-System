@@ -172,8 +172,7 @@ function AIAssistant() {
           </ul>
 
           <p className="ai-note">
-            The AI runs through your Spring Boot backend, so your OpenAI API
-            key never needs to be placed in the React application.
+            
           </p>
         </aside>
       </div>
